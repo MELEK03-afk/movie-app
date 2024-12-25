@@ -1,0 +1,59 @@
+[
+    {
+      "title": "The Godfather",
+      "year": 1972,
+      "genre": ["Crime", "Drama"],
+      "director": "Francis Ford Coppola",
+      "rating": 9.2
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": ["Action", "Crime", "Drama"],
+      "director": "Christopher Nolan",
+      "rating": 9.0
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "genre": ["Crime", "Drama"],
+      "director": "Quentin Tarantino",
+      "rating": 8.9
+    },
+    {
+      "title": "Schindler's List",
+      "year": 1993,
+      "genre": ["Biography", "Drama", "History"],
+      "director": "Steven Spielberg",
+      "rating": 9.0
+    },
+    {
+      "title": "Forrest Gump",
+      "year": 1994,
+      "genre": ["Drama", "Romance"],
+      "director": "Robert Zemeckis",
+      "rating": 8.8
+    },
+    {
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": ["Action", "Sci-Fi"],
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "rating": 8.7
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "genre": ["Drama"],
+      "director": "David Fincher",
+      "rating": 8.8
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "genre": ["Action", "Adventure", "Drama"],
+      "director": "Peter Jackson",
+      "rating": 9.0
+    }
+  ]
+  
